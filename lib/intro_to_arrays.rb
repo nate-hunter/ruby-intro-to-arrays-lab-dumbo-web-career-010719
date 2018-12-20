@@ -1,11 +1,7 @@
 =begin 
- indexing
-    #first_element
-      takes in an argument of an array and returns the first element in the array using its positive index (FAILED - 5)
-    #third_element
-      takes in an argument of an array and returns the third element in the array using its positive index (FAILED - 6)
-    #last_element
-      takes in an argument of an array and returns the last element in the array using its negative index (FAILED - 7)
+
+
+
 =end
 
 def instantiate_new_array
